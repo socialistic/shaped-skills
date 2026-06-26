@@ -1,9 +1,7 @@
 ---
-name: realchar-character-creator
+name: RealChar Character Creator
 description: |
-  Design and roleplay AI characters with structured personality, background
-  knowledge, and conversation style. Based on the RealChar open-source project's
-  character creation workflow and catalog format.
+  Design AI characters with rich personality, then roleplay
 ---
 
 # RealChar Character Creator
